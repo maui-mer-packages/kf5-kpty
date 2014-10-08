@@ -9,7 +9,7 @@ Name:       kpty
 # << macros
 
 Summary:    KDE Frameworks 5 tier 3 module providing Pty abstraction
-Version:    5.2.0
+Version:    5.3.0
 Release:    1
 Group:      System/Base
 License:    GPLv2+
